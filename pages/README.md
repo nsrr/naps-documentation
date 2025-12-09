@@ -76,6 +76,7 @@ The history of the covariate dataset and data dictionary files have been tracked
 
 The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most frequently used demographic variables available in the NAPS dataset. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key harmonized variables include:
 
+|  |  |
 |------------------------------------|------------------------------------|
 | **Variable** | **Label** |
 | [nsrr_age](https://sleepdata.org/datasets/naps/variables/nsrr_age) | Subject age |

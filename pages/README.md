@@ -36,15 +36,15 @@ RBD group procedures included a clinical assessment, questionnaires, blood draw,
 Control group procedures included a clinical assessment, questionnaires, blood draw, neuroimaging (MRI), and lumbar puncture.
 
 **Cognitive Function**: Assessed using tests from the Uniform Data Set version 3 (UDS3), the Montreal Cognitive Assessment (MoCA), Rey Auditory Verbal Learning Test (AVLT), King-Devick test, and Pareidolia test
-
+\
 **Neuropsychiatric Function**: Evaluated with the Patient Health Questionnaire (PHQ-9), Geriatric Depression Scale, Generalized Anxiety Disorder 7 Scale (GAD-7), PTSD Checklist for DSM-5 (PCL-5), and others
-
+\
 **Motor Function**: Assessed with the MDS-UPDRS parts 2 and 3, Timed “Up and Go” test, Purdue Pegboard, and Alternate tap test 
-
+\
 **Autonomic Function**: Measured via orthostatic vital signs and the Scale for Outcomes in PD-Autonomic (SCOPA-AUT)
-
+\
 **Sensory Function**: Color vision is tested with the Farnsworth-Munsell 100 Hue Color Vision Test, and smell is tested with the Brief Smell Identification Test (B-SIT)
-
+\
 **Sleep Function**: Assessed with the Epworth Sleepiness Scale (ESS), SCOPA-sleep, and Mayo Sleep Questionnaire 
 
 ### PSG collection

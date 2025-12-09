@@ -36,10 +36,15 @@ RBD group procedures included a clinical assessment, questionnaires, blood draw,
 Control group procedures included a clinical assessment, questionnaires, blood draw, neuroimaging (MRI), and lumbar puncture.
 
 **Cognitive Function**: Assessed using tests from the Uniform Data Set version 3 (UDS3), the Montreal Cognitive Assessment (MoCA), Rey Auditory Verbal Learning Test (AVLT), King-Devick test, and Pareidolia test
-**Neuropsychiatric Function**: Evaluated with the Patient Health Questionnaire (PHQ-9), Geriatric Depression Scale, Generalized Anxiety Disorder 7 Scale (GAD-7), PTSD Checklist for DSM-5 (PCL-5), and others 
+
+**Neuropsychiatric Function**: Evaluated with the Patient Health Questionnaire (PHQ-9), Geriatric Depression Scale, Generalized Anxiety Disorder 7 Scale (GAD-7), PTSD Checklist for DSM-5 (PCL-5), and others
+
 **Motor Function**: Assessed with the MDS-UPDRS parts 2 and 3, Timed “Up and Go” test, Purdue Pegboard, and Alternate tap test 
+
 **Autonomic Function**: Measured via orthostatic vital signs and the Scale for Outcomes in PD-Autonomic (SCOPA-AUT)
+
 **Sensory Function**: Color vision is tested with the Farnsworth-Munsell 100 Hue Color Vision Test, and smell is tested with the Brief Smell Identification Test (B-SIT)
+
 **Sleep Function**: Assessed with the Epworth Sleepiness Scale (ESS), SCOPA-sleep, and Mayo Sleep Questionnaire 
 
 ### PSG collection
@@ -76,7 +81,6 @@ The history of the covariate dataset and data dictionary files have been tracked
 
 The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most frequently used demographic variables available in the NAPS dataset. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key harmonized variables include:
 
-|  |  |
 |------------------------------------|------------------------------------|
 | **Variable** | **Label** |
 | [nsrr_age](https://sleepdata.org/datasets/naps/variables/nsrr_age) | Subject age |
@@ -88,7 +92,7 @@ The sources state that PSG data, including metadata such as staging and respirat
 [Raw polysomnography data](https://sleepdata.org/datasets/naps/files/polysomnography) are available for ??? NAPS participants. 
 
 ## Access and usage restrictions
-Raw, digitized polysomnographic data with annotated stage files are accessible without restrictions for NAPS2. For NAPS1, only sleep data is available . The sources do not explicitly state whether commercial use is permitted.
+Raw, digitized polysomnographic data with annotated stage files are accessible without restrictions for NAPS2. For NAPS1, only sleep data is available. The sources do not explicitly state whether commercial use is permitted.
 
 ## Citations and acknowledgments
 When using this dataset, users must cite the following publication: 

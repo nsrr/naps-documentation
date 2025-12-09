@@ -25,9 +25,6 @@ Currently, only polysomnographic data is being made available to the National Sl
 
 Inclusion criteria for the RBD include must have polysomnogram-confirmed RBD according to ICSD-3 criteria, be over 18 years old, and be capable of providing informed consent. Exclusions included a diagnosis of PD, dementia, or MSA, narcolepsy associated RBD, or RBD secondary to other known causes.  Control group inclusion criteria include must be over 18 years old, matched for age, sex, and race to the RBD group, and be willing to undergo all testing procedures, including lumbar puncture and neuroimaging. Control Group exclusions: History of dream enactment behavior, parkinsonism, dementia, MCI, or contraindications to MRI or lumbar puncture.
 
-### Data collection
-Data collection includes;
-
 ### Clinic visits
 
 Participants underwent annual comprehensive clinical evaluations. At least two clinic visits and two polysomnograms, separated by at least two years, were planned. The clinical battery includeed a semi-structured interview and assessments across multiple domains.

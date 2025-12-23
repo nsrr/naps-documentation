@@ -89,8 +89,10 @@ Raw, digitized polysomnographic data with annotated stage files are accessible w
 
 ## Citations and acknowledgments
 When using this dataset, users must cite the following publication: 
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 
-Elliott JE, Lim MM, Keil AT, Postuma RB, Pelletier A, Gagnon JF, St Louis EK, Forsberg LK, Fields JA, Huddleston DE, Bliwise DL, Avidan AY, Howell MJ, Schenck CH, McLeland J, Criswell SR, Videnovic A, During EH, Miglis MG, Shprecher DR, Lee-Iannotti JK, Boeve BF, Ju YS; North American Prodromal Synucleinopathy (NAPS) Consortium. Baseline characteristics of the North American prodromal Synucleinopathy cohort. Ann Clin Transl Neurol. 2023 Apr;10(4):520-535. doi: 10.1002/acn3.51738. Epub 2023 Feb 8. PMID: 36751940; PMCID: PMC10109527.
+> [Elliott JE, Lim MM, Keil AT, Postuma RB, Pelletier A, Gagnon JF, St Louis EK, Forsberg LK, Fields JA, Huddleston DE, Bliwise DL, Avidan AY, Howell MJ, Schenck CH, McLeland J, Criswell SR, Videnovic A, During EH, Miglis MG, Shprecher DR, Lee-Iannotti JK, Boeve BF, Ju YS; North American Prodromal Synucleinopathy (NAPS) Consortium. Baseline characteristics of the North American prodromal Synucleinopathy cohort. Ann Clin Transl Neurol. 2023 Apr;10(4):520-535. doi: 10.1002/acn3.51738. Epub 2023 Feb 8. PMID: 36751940; PMCID: PMC10109527.](https://pubmed.ncbi.nlm.nih.gov/36751940/)
+
 
 Users must include the following text in any Acknowledgements section: 
 
@@ -99,8 +101,8 @@ Users must include the following text in any Acknowledgements section:
 > The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). 6. References The sources do not provide a list of external links or references
 
 ## References
-- Study on the National Sleep Research Resource (NSRR):  http://sleepdata.org/datasets/naps/
-- Additional NAPS data at ClinicalTrials.gov (NCT05826457)
+- Study on the National Sleep Research Resource (NSRR): http://sleepdata.org/datasets/naps/
+- Additional NAPS data at ClinicalTrials.gov (NCT05826457): https://clinicaltrials.gov/study/NCT05826457
 - NAPS Consortium for REM Sleep Behavior Disorder at https://ww.naps-rbd.org
 - NSRR NAPS GitHub Documentation:  https://github.com/nsrr/naps-documentation
 - NSRR NAPS GitHub Data Dictionary:  https://github.com/nsrr/naps-data-dictionary

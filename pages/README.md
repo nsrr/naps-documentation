@@ -66,9 +66,9 @@ All personally identifiable information (PII) was removed from the data files by
 
 ## Data overview
 ### Covariate/phenotype datasets (CSV) 
-The covariate dataset files **naps-dataset-0.1.0.csv** and **naps-harmonized-dataset-0.1.0.csv** contain 138 rows each. The first column ([nsrrid](https://sleepdata.org/datasets/naps/variables/nsrrid)) is the unique NAPS subject identifier that can be linked with PSG signal filenames. 
+The covariate dataset files **naps-dataset-0.1.0.csv** and **naps-harmonized-dataset-0.1.0.csv** contain 138 rows each. The first column ([nsrrid](:variables_path:/nsrrid)) is the unique NAPS subject identifier that can be linked with PSG signal filenames. 
 
-The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file [naps-data-dictionary-0.1.0-variables.csv](https://sleepdata.org/datasets/naps/files/datasets/naps-data-dictionary-0.1.0-variables.csv) includes folder names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 1=male, 2=female), which are described in the **domains** data dictionary file ([naps-data-dictionary-0.1.0-domains.csv](https://sleepdata.org/datasets/naps/files/datasets/naps-data-dictionary-0.1.0-domains.csv) ). 
+The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file [naps-data-dictionary-0.1.0-variables.csv](:files_path:/datasets/naps-data-dictionary-0.1.0-variables.csv) includes folder names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 1=male, 2=female), which are described in the **domains** data dictionary file ([naps-data-dictionary-0.1.0-domains.csv](:files_path:/datasets/naps-data-dictionary-0.1.0-domains.csv) ). 
 
 The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/naps-data-dictionary). 
 
@@ -77,8 +77,8 @@ The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most f
 |  |  |
 |------------------------------------|------------------------------------|
 | **Variable** | **Label** |
-| [nsrr_age](https://sleepdata.org/datasets/naps/variables/nsrr_age) | Subject age |
-| [nsrr_sex](https://sleepdata.org/datasets/naps/variables/nsrr_sex) | Subject sex |
+| [nsrr_age](:variables_path:/nsrr_age) | Subject age |
+| [nsrr_sex](:variables_path:/nsrr_sex) | Subject sex |
 
 ### PSG signal files (EDF)
 [Raw polysomnography data](https://sleepdata.org/datasets/naps/files/polysomnography) are available for 138 NAPS participants. 

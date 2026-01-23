@@ -3,6 +3,7 @@
 The North American Prodromal Synucleinopathy (NAPS) Consortium is an observational study investigating the pathophysiology of neurodegeneration within the central and autonomic nervous system, collectively known as synucleinopathy. Funded by the National Institutes of Health (NIH), specifically the National Institute on Aging (NIA) and the National Institute of Neurological Disorders and Stroke (NINDS), the study aims to enable neuroprotective clinical trials to prevent or delay synucleinopathies like Parkinson's Disease (PD), Dementia with Lewy Bodies (DLB), and Multiple System Atrophy (MSA).  The NAPS Consortium was formed to enroll participants with REM sleep behavior disorder (RBD), which is considered a prodromal stage of synucleinopathy, in preparation for future clinical trials.
 
 The consortium's work is conducted in stages:
+
 - NAPS1 (conducted from June 2018 to June 2019) focused on building a large, multi-center cohort, implementing standardized clinical assessments, and developing fluid and neurophysiological biomarkers.
 - NAPS2 (conducted from August 2021 to April 2026) expands on NAPS1 with a more extensive protocol and a core-based structure to support its aims. NAPS2 is a non-randomized, longitudinal natural history study that enrolls 300 participants with polysomnogram-confirmed idiopathic RBD and 60 matched healthy controls for annual evaluation.
 
@@ -11,13 +12,13 @@ The overarching goals of the NAPS Consortium are to enroll participants for the 
 Primary outcomes are endpoints of neurodegenerative conditions such as PD, DLB, and MSA. In NAPS1, a primary endpoint was the Prodromal Synucleinopathy Rating Scale, which combines assessments of neurocognitive, motor, autonomic, olfactory, and color vision functions. A primary sleep-related endpoint was the quantification of REM sleep without atonia (RSWA) metrics from polysomnography (PSG). NAPS2 is an observational study and does not have primary outcome measures in the traditional sense.
 
 Currently, only polysomnographic data is being made available to the National Sleep Research Resource (NSRR). Data requests to other NAPS data can be made using the request form on the NAPS website. Data collection includes:
+
 - Clinical Battery: An annual comprehensive evaluation of cognitive, motor, autonomic, sleep, psychiatric, olfactory, and color vision functions. 
 - Blood Draw: Up to 60 ml of blood is collected annually for plasma, serum, DNA/buffy coat, and RNA samples.
 - Lumbar Puncture: 20-30ml of cerebrospinal fluid (CSF) is collected from willing RBD participants and is mandatory for controls at their first visit
 - Polysomnogram (PSG): Full, attended in-lab PSGs are performed on all participants 
 - MRI: Performed twice in RBD participants and once in controls
 - DaTscan: Performed in all RBD participants without contraindications
-
 
 ## Methods
 
@@ -87,7 +88,7 @@ The sources state that PSG data, including metadata such as staging and respirat
 ## Access and usage restrictions
 Raw, digitized polysomnographic data with annotated stage files are accessible without restrictions for NAPS2. For NAPS1, only sleep data is available. The sources do not explicitly state whether commercial use is permitted.
 
-## Citations and acknowledgments
+## Citation and acknowledgments
 When using this dataset, users must cite the following publication: 
 > [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 
@@ -103,6 +104,6 @@ Users must include the following text in any Acknowledgements section:
 ## References
 - Study on the National Sleep Research Resource (NSRR): http://sleepdata.org/datasets/naps/
 - Additional NAPS data at ClinicalTrials.gov (NCT05826457): https://clinicaltrials.gov/study/NCT05826457
-- NAPS Consortium for REM Sleep Behavior Disorder at https://ww.naps-rbd.org
-- NSRR NAPS GitHub Documentation:  https://github.com/nsrr/naps-documentation
-- NSRR NAPS GitHub Data Dictionary:  https://github.com/nsrr/naps-data-dictionary
+- NAPS Consortium for REM Sleep Behavior Disorder: https://ww.naps-rbd.org
+- NSRR NAPS GitHub Documentation: https://github.com/nsrr/naps-documentation
+- NSRR NAPS GitHub Data Dictionary: https://github.com/nsrr/naps-data-dictionary

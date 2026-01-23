@@ -84,7 +84,7 @@ The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most f
 [Raw polysomnography data](https://sleepdata.org/datasets/naps/files/polysomnography) are available for 138 NAPS participants. 
 
 ## Access and usage restrictions
-Raw, digitized polysomnographic data with annotated stage files are accessible without restrictions for NAPS2. For NAPS1, only sleep data is available. The sources do not explicitly state whether commercial use is permitted.
+The NAPS dataset is only available for non-commercial use.
 
 ## Citation and acknowledgments
 When using this dataset, users must cite the following publication: 

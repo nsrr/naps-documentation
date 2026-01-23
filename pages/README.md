@@ -81,7 +81,7 @@ The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most f
 | [nsrr_sex](:variables_path:/nsrr_sex) | Subject sex |
 
 ### PSG signal files (EDF)
-[Raw polysomnography data](https://sleepdata.org/datasets/naps/files/polysomnography) are available for 138 NAPS participants. 
+[Raw polysomnography data](:files_path:/polysomnography) are available for 138 NAPS participants. 
 
 ## Access and usage restrictions
 The NAPS dataset is only available for non-commercial use.

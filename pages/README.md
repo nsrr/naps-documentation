@@ -81,8 +81,6 @@ The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most f
 | [nsrr_sex](https://sleepdata.org/datasets/naps/variables/nsrr_sex) | Subject sex |
 
 ### PSG signal files (EDF)
-Raw PSG data was collected and will be shared. The data files are converted to European Data Format (EDF) or EDF+ format for centralized analysis and sharing. Video data is also collected but stored locally at each site for future research and is not currently shared due to its identifiable nature. 
-The sources state that PSG data, including metadata such as staging and respiratory events, will be shared through the NSRR. However, details on the structure of annotation files (e.g., XML format, coding schemes for events) are not specified.
 [Raw polysomnography data](https://sleepdata.org/datasets/naps/files/polysomnography) are available for 138 NAPS participants. 
 
 ## Access and usage restrictions

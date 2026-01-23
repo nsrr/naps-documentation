@@ -11,7 +11,7 @@ The overarching goals of the NAPS Consortium are to enroll participants for the 
 
 Primary outcomes are endpoints of neurodegenerative conditions such as PD, DLB, and MSA. In NAPS1, a primary endpoint was the Prodromal Synucleinopathy Rating Scale, which combines assessments of neurocognitive, motor, autonomic, olfactory, and color vision functions. A primary sleep-related endpoint was the quantification of REM sleep without atonia (RSWA) metrics from polysomnography (PSG). NAPS2 is an observational study and does not have primary outcome measures in the traditional sense.
 
-Currently, only polysomnographic data is being made available to the National Sleep Research Resource (NSRR). Data requests to other NAPS data can be made using the request form on the NAPS website. Data collection includes:
+Currently, only polysomnographic data is being made available to the National Sleep Research Resource (NSRR). Data requests to other NAPS data can be made using [the request form on the NAPS website](https://www.naps-rbd.org/data-request-instructions). Data collection includes:
 
 - Clinical Battery: An annual comprehensive evaluation of cognitive, motor, autonomic, sleep, psychiatric, olfactory, and color vision functions. 
 - Blood Draw: Up to 60 ml of blood is collected annually for plasma, serum, DNA/buffy coat, and RNA samples.
@@ -104,6 +104,6 @@ Users must include the following text in any Acknowledgements section:
 ## References
 - Study on the National Sleep Research Resource (NSRR): http://sleepdata.org/datasets/naps/
 - Additional NAPS data at ClinicalTrials.gov (NCT05826457): https://clinicaltrials.gov/study/NCT05826457
-- NAPS Consortium for REM Sleep Behavior Disorder: https://ww.naps-rbd.org
+- NAPS Consortium for REM Sleep Behavior Disorder: https://www.naps-rbd.org
 - NSRR NAPS GitHub Documentation: https://github.com/nsrr/naps-documentation
 - NSRR NAPS GitHub Data Dictionary: https://github.com/nsrr/naps-data-dictionary

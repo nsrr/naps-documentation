@@ -58,9 +58,9 @@ The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most f
 | [nsrr_age](:variables_path:/nsrr_age) | Subject age |
 | [nsrr_sex](:variables_path:/nsrr_sex) | Subject sex |
 
-### PSG signal files (EDF)
+### PSG signal and annotation data
 
-[Raw polysomnography data (.edf) and sleep staging annotations (30-second epochs, .txt)](:files_path:/polysomnography) are available for 138 NAPS1 participants. 
+[Raw polysomnography signal data and sleep staging annotations (30-second epochs)](:files_path:/original/psg) are available for 138 NAPS1 participants. Signal data files are in the European Data Format (EDF) (https://www.edfplus.info/); annotation files are .txt files with one row per 30-second epoch.
 
 ## Access and usage restrictions
 

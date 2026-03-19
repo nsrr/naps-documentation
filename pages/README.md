@@ -44,7 +44,7 @@ All personally identifiable information (PII) was removed from the data files by
 
 ### Covariate/phenotype datasets (CSV) 
 
-The [covariate dataset files](:files_path:/datasets) **naps-dataset-0.1.0.csv** and **naps-harmonized-dataset-0.1.0.csv** contain 138 rows each. The first column ([nsrrid](:variables_path:/nsrrid)) is the unique NAPS subject identifier that can be linked with PSG signal filenames. 
+The [covariate dataset files](:files_path:/datasets) (**naps-dataset-0.1.0.csv** and **naps-harmonized-dataset-0.1.0.csv**) contain 138 rows each. The first column ([nsrrid](:variables_path:/nsrrid)) is the unique NAPS subject identifier that can be linked with PSG signal filenames. 
 
 The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file [naps-data-dictionary-0.1.0-variables.csv](:files_path:/datasets/naps-data-dictionary-0.1.0-variables.csv) includes folder names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 1=male, 2=female), which are described in the **domains** data dictionary file ([naps-data-dictionary-0.1.0-domains.csv](:files_path:/datasets/naps-data-dictionary-0.1.0-domains.csv) ). 
 
@@ -60,7 +60,7 @@ The harmonized dataset **naps-harmonized-dataset-0.1.0.csv** contains the most f
 
 ### PSG signal and annotation data
 
-[Raw polysomnography signal data and sleep staging annotations (30-second epochs)](:files_path:/original/psg) are available for 138 NAPS1 participants. Signal data files are in the European Data Format (EDF) (https://www.edfplus.info/); annotation files are .txt files with one row per 30-second epoch.
+[Raw polysomnography signal data and sleep staging annotations (30-second epochs)](:files_path:/original/psg/) are available for 138 NAPS1 participants. Signal data files are in the European Data Format (EDF) (https://www.edfplus.info/); annotation files are .txt files with one row per 30-second epoch.
 
 ## Access and usage restrictions
 

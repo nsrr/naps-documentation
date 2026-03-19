@@ -46,7 +46,7 @@ All personally identifiable information (PII) was removed from the data files by
 
 The [covariate dataset files](:files_path:/datasets) (**naps-dataset-0.1.0.csv** and **naps-harmonized-dataset-0.1.0.csv**) contain 138 rows each. The first column ([nsrrid](:variables_path:/nsrrid)) is the unique NAPS subject identifier that can be linked with PSG signal filenames. 
 
-The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file [naps-data-dictionary-0.1.0-variables.csv](:files_path:/datasets/naps-data-dictionary-0.1.0-variables.csv) includes folder names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 1=male, 2=female), which are described in the **domains** data dictionary file ([naps-data-dictionary-0.1.0-domains.csv](:files_path:/datasets/naps-data-dictionary-0.1.0-domains.csv) ). 
+The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file includes folder names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 1=male, 2=female), which are described in the **domains** data dictionary file. 
 
 The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/naps-data-dictionary). 
 

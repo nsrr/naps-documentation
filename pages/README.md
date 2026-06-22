@@ -80,8 +80,7 @@ Users must include the following text in any Acknowledgements section:
 
 > Data collection and dissemination of the data presented in this manuscript were supported by the NAPS Consortium (R34 AG056639 and U19 AG071754 funded by the National Institutes of Health). The authors acknowledge the invaluable contributions of the participants in NAPS Consortium as well as the assistance of the support staffs at each of the participating sites.
 
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). 6. References The sources do not provide a list of external links or references
-
+> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 ## References
 - Study on the National Sleep Research Resource (NSRR): http://sleepdata.org/datasets/naps/
 - Additional NAPS data at ClinicalTrials.gov (NCT05826457): https://clinicaltrials.gov/study/NCT05826457
